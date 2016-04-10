@@ -1,0 +1,28 @@
+name: knitting
+favicon: null
+layout_spectrum: 0.8777296741027385
+typography_spectrum: 0.4672641404904425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8426134155597538
+  lightness: 0.3073445586487651
+  saturation: 0.6176148043014109
+  rhythmicContrast: 0.6784225550945848
+purpose: []
